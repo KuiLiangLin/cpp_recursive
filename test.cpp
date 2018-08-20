@@ -12,6 +12,7 @@ double func(double x)
 } // funcd = func' 
 
 
+
 int main(){
 	//double N0=100;
 	double iteration_times;
